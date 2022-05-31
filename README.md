@@ -30,6 +30,7 @@ This repository is a continuation of the Fundamentals of Algorithmization and Pr
 Different games as in 2D as on the microcontroller board. Practice for myself and perfect representation of my skills.
 
 ✅Done : All of the tasks which are represented on the website. You can find the link here : https://kurzy.kpi.fei.tuke.sk/pvjc/2022/
+![image](https://user-images.githubusercontent.com/92337987/171135752-8a330490-cb92-4d69-82b6-b0eae63333b8.png)
 
 # 7️⃣Machine-Learning-n-Artificial-Intelligence 
 Different Machine Learning methods. Usage explaining.
