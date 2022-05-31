@@ -9,6 +9,7 @@ Charity NFT collection the main goal of which is to show the whole world Ukraini
 The project is about two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications.
 
 ✅Done :Presentation/Report about project; Arm Conception which was developed in the spring of 2022.
+![image](https://user-images.githubusercontent.com/92337987/171135302-8c28dafa-5234-4cde-a031-b76b29530f51.png)
 
 # 3️⃣Research-Sensitivity-Analysis
 The stake of our research is the safety of the installation which consists in carrying out studies to eliminate the uncertainties of exceeding the threshold level by the flood level (overflow S). To do this we will use the flood model which is based on a simplification of 1D hydrodynamic equations under the assumptions of constant and uniform discharge and very large rectangular section.
