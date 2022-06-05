@@ -61,3 +61,6 @@ The project is about Qcar robot and full exploring that device. The goal was to 
 ✅Done : A lot of various tests and two reports with different objectives
 
 # 1️⃣2️⃣ Research : Qbot
+The project is about Qbot robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. s
+
+✅Done : A lot of various tests and a research
