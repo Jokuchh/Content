@@ -50,17 +50,24 @@ The project is about contactless communication by using RFID/NFC to create and t
 
 ✅Done : Tasks and report
 
-# 1️⃣0️⃣ Research : 3pi+ (Numerical-Automatics)
+# 1️⃣0️⃣ Research : Qcar
+The project is about Qcar robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. **Two different researches**
+
+✅Done : A lot of various tests and two reports with different objectives
+![image](https://user-images.githubusercontent.com/92337987/172062489-ff437165-1c1b-440b-b80d-b4c4694e796f.png)
+
+# 1️⃣1️⃣ Research : 3pi+ (Numerical-Automatics)
 The project is about 3pi+ robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. **Three different researches**
 
 ✅Done : A lot of various tests and three reports with different objectives
 
-# 1️⃣1️⃣ Research : Qcar
-The project is about Qcar robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. **Two different researches**
+![image](https://user-images.githubusercontent.com/92337987/172062434-cac2017f-ac23-428c-a2a9-80ac708cce1a.png)
 
-✅Done : A lot of various tests and two reports with different objectives
 
 # 1️⃣2️⃣ Research : Qbot
 The project is about Qbot robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. 
 
 ✅Done : A lot of various tests and research
+
+![image](https://user-images.githubusercontent.com/92337987/172062401-4e283810-f503-43b2-bad7-421cd13e2107.png)
+
