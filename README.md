@@ -54,3 +54,9 @@ The project is about contactless communication by using RFID/NFC to create and t
 The project is about 3pi+ robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research.
 
 ✅Done : A lot of various tests and two reports with different objectives
+
+# 1️⃣0️⃣ Research-Numerical-Automatics
+
+# 1️⃣1️⃣ Research-Numerical-Automatics
+
+# 1️⃣2️⃣ Research-Numerical-Automatics
