@@ -50,13 +50,14 @@ The project is about contactless communication by using RFID/NFC to create and t
 
 ✅Done : Tasks and report
 
-# 1️⃣0️⃣ Research-Numerical-Automatics
-The project is about 3pi+ robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research.
-
-✅Done : A lot of various tests and two reports with different objectives
-
 # 1️⃣0️⃣ Research : 3pi+ (Numerical-Automatics)
+The project is about 3pi+ robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. **Three different researches**
+
+✅Done : A lot of various tests and three reports with different objectives
 
 # 1️⃣1️⃣ Research : Qcar
+The project is about Qcar robot and full exploring that device. The goal was to understand the robot's functionality and to gain new knowledge, including how to make a research. **Two different researches**
+
+✅Done : A lot of various tests and two reports with different objectives
 
 # 1️⃣2️⃣ Research : Qbot
