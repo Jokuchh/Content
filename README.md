@@ -80,6 +80,7 @@ The repository is about databese attack and how to prevent it, basically all of 
 
 2. In the Second Report, i supposed to do the tutorial which gives me a brief introduction to signal filtering. Then, several assignments were done where i had to analyze my recorded data and other real-life data with the methods and theory that i learnt on the following lectures from Digital-Signal-Processing.
 
-3. Wei and Levoy methods (*image processing*)
+3. Wei and Levoy methods : Explanatory note and realease 
+(*image processing*)
 
 ✅Done : A lot of tests and 3 reports
