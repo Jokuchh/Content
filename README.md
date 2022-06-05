@@ -74,3 +74,8 @@ The project is about Qbot robot and full exploring that device. The goal was to 
 The repository is about databese attack and how to prevent it, basically all of the steps and console command is there.
 
 ✅Done : Some tests and research
+
+# 1️⃣4️⃣ Digital Signal Processing & Digital Image Processing
+The repository is about databese attack and how to prevent it, basically all of the steps and console command is there.
+
+✅Done : A lot of tests and 3 reports
