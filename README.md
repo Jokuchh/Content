@@ -85,7 +85,13 @@ The repository is about databese attack and how to prevent it, basically all of 
 
 ✅Done : A lot of tests and 3 reports
 
-# 1️⃣5️⃣ Deep Learning & Reinforcment Learning 
+# 1️⃣5️⃣ Deep Learning & Reinforcment Learning
+## Deep Learning : Convolutional neural networks (CNN) & Recurrent neural networks
+![multilayer_diagram_weights](https://user-images.githubusercontent.com/92337987/177038523-63ae60bf-a1a6-41de-89b1-299d883939e7.png)
+## Reinforcment Learning : Machine learning area
+Reinforcement learning is an iterative process where an algorithm seeks to maximize some value based on rewards received for being right. Reinforcement learning (RL) deals with the ability of learning the associations between stimuli, actions, and the occurrence of pleasant events, called rewards, or unpleasant events called punishments.
+![robo1](https://user-images.githubusercontent.com/92337987/177013341-6031c641-a349-408d-931e-23fce2451138.png)
+
 # 1️⃣6️⃣ Event control and multi agent system
 ## Report 1 
 Distributed control of a vehicle queue : The objective of this TP is to find control laws with event sampling for the automatic piloting of a queue of vehicles, which move in a straight line.
