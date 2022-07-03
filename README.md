@@ -87,6 +87,8 @@ The repository is about databese attack and how to prevent it, basically all of 
 
 # 1️⃣5️⃣ Deep Learning & Reinforcment Learning
 ## Deep Learning : Convolutional neural networks (CNN) & Recurrent neural networks
+- In deep learning, a convolutional neural network (CNN/ConvNet) is a class of deep neural networks, most commonly applied to analyze visual imagery. Now when we think of a neural network we think about matrix multiplications but that is not the case with ConvNet. It uses a special technique called Convolution.
+- Recurrent neural networks (RNNs) are the neural networks with memories that are able to capture all information stored in sequence in the previous element. In other words, the RNNs are powerful enough to make use of the information in a relatively long sequence, since they perform the same tasks for every single element in the sequence, with output dependent on all previous computations.
 ![multilayer_diagram_weights](https://user-images.githubusercontent.com/92337987/177038523-63ae60bf-a1a6-41de-89b1-299d883939e7.png)
 ## Reinforcment Learning : Machine learning area
 Reinforcement learning is an iterative process where an algorithm seeks to maximize some value based on rewards received for being right. Reinforcement learning (RL) deals with the ability of learning the associations between stimuli, actions, and the occurrence of pleasant events, called rewards, or unpleasant events called punishments.
