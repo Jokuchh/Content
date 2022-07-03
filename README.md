@@ -94,6 +94,8 @@ The repository is about databese attack and how to prevent it, basically all of 
 Reinforcement learning is an iterative process where an algorithm seeks to maximize some value based on rewards received for being right. Reinforcement learning (RL) deals with the ability of learning the associations between stimuli, actions, and the occurrence of pleasant events, called rewards, or unpleasant events called punishments.
 ![robo1](https://user-images.githubusercontent.com/92337987/177013341-6031c641-a349-408d-931e-23fce2451138.png)
 
+✅Done : Full project to reach the destination(RL) exploring CCNs& RNNs. 
+
 # 1️⃣6️⃣ Event control and multi agent system
 ## Report 1 
 Distributed control of a vehicle queue : The objective of this TP is to find control laws with event sampling for the automatic piloting of a queue of vehicles, which move in a straight line.
@@ -103,4 +105,4 @@ TP Systèmes multi-agents : L’objectif de ce TP est de mettre en application d
 ![Crowd](https://user-images.githubusercontent.com/92337987/176998486-80eb4ca0-23c4-4494-bde4-6a0d91caef99.png)
 
 ✅Done : A lot of tests and 2 reports
-# 1️⃣7️⃣ Software-Engineering
+
