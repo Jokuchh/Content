@@ -84,3 +84,15 @@ The repository is about databese attack and how to prevent it, basically all of 
 (*image processing*)
 
 ✅Done : A lot of tests and 3 reports
+
+# 1️⃣5️⃣ Deep Learning & Reinforcment Learning 
+# 1️⃣6️⃣ Event control and multi agent system
+## Report 1 
+Distributed control of a vehicle queue : The objective of this TP is to find control laws with event sampling for the automatic piloting of a queue of vehicles, which move in a straight line.
+![Queue](https://user-images.githubusercontent.com/92337987/176998288-2d5401e2-5332-4df5-a975-689e03fbb573.png)
+## Report 2 
+TP Systèmes multi-agents : L’objectif de ce TP est de mettre en application des algorithmes de consensus sur des systèmes multi-agents.
+![Crowd](https://user-images.githubusercontent.com/92337987/176998486-80eb4ca0-23c4-4494-bde4-6a0d91caef99.png)
+
+✅Done : A lot of tests and 2 reports
+# 1️⃣7️⃣ Software-Engineering
